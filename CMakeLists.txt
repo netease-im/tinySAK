@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.18)
 
-project(tinySAK)
+project(tinysak)
 
 add_definitions(-DTINYSAK_IMPORTS_IGNORE)
 
